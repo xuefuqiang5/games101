@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/Users/xuewenqi/code/games101/pa3/Code/build",
+  "command": "/usr/bin/c++  -I/opt/homebrew/include -isystem /opt/homebrew/Cellar/opencv/4.11.0_1/include/opencv4 -g -std=gnu++17 -arch arm64 -o CMakeFiles/shading.dir/main.cpp.o -c /Users/xuewenqi/code/games101/pa3/Code/main.cpp",
+  "file": "/Users/xuewenqi/code/games101/pa3/Code/main.cpp",
+  "output": "CMakeFiles/shading.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/xuewenqi/code/games101/pa3/Code/build",
+  "command": "/usr/bin/c++  -I/opt/homebrew/include -isystem /opt/homebrew/Cellar/opencv/4.11.0_1/include/opencv4 -g -std=gnu++17 -arch arm64 -o CMakeFiles/shading.dir/rasterizer.cpp.o -c /Users/xuewenqi/code/games101/pa3/Code/rasterizer.cpp",
+  "file": "/Users/xuewenqi/code/games101/pa3/Code/rasterizer.cpp",
+  "output": "CMakeFiles/shading.dir/rasterizer.cpp.o"
+},
+{
+  "directory": "/Users/xuewenqi/code/games101/pa3/Code/build",
+  "command": "/usr/bin/c++  -I/opt/homebrew/include -isystem /opt/homebrew/Cellar/opencv/4.11.0_1/include/opencv4 -g -std=gnu++17 -arch arm64 -o CMakeFiles/shading.dir/Triangle.cpp.o -c /Users/xuewenqi/code/games101/pa3/Code/Triangle.cpp",
+  "file": "/Users/xuewenqi/code/games101/pa3/Code/Triangle.cpp",
+  "output": "CMakeFiles/shading.dir/Triangle.cpp.o"
+},
+{
+  "directory": "/Users/xuewenqi/code/games101/pa3/Code/build",
+  "command": "/usr/bin/c++  -I/opt/homebrew/include -isystem /opt/homebrew/Cellar/opencv/4.11.0_1/include/opencv4 -g -std=gnu++17 -arch arm64 -o CMakeFiles/shading.dir/Texture.cpp.o -c /Users/xuewenqi/code/games101/pa3/Code/Texture.cpp",
+  "file": "/Users/xuewenqi/code/games101/pa3/Code/Texture.cpp",
+  "output": "CMakeFiles/shading.dir/Texture.cpp.o"
+}
+]

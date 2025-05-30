@@ -1,0 +1,1 @@
+/usr/bin/c++  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/MyVulkanApp.dir/main.cpp.o -o MyVulkanApp   -L/Users/xuewenqi/VulkanSDK/1.4.313.1/macOS/lib  -Wl,-rpath,/Users/xuewenqi/VulkanSDK/1.4.313.1/macOS/lib -lvulkan.1

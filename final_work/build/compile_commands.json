@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/xuewenqi/code/games101/final_work/build",
+  "command": "/usr/bin/c++  -I/Users/xuewenqi/VulkanSDK/1.4.313.1/macOS/include -std=gnu++17 -arch arm64 -o CMakeFiles/MyVulkanApp.dir/main.cpp.o -c /Users/xuewenqi/code/games101/final_work/main.cpp",
+  "file": "/Users/xuewenqi/code/games101/final_work/main.cpp",
+  "output": "CMakeFiles/MyVulkanApp.dir/main.cpp.o"
+}
+]

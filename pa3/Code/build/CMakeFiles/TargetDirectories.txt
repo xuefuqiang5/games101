@@ -1,0 +1,3 @@
+/Users/xuewenqi/code/games101/pa3/Code/build/CMakeFiles/shading.dir
+/Users/xuewenqi/code/games101/pa3/Code/build/CMakeFiles/edit_cache.dir
+/Users/xuewenqi/code/games101/pa3/Code/build/CMakeFiles/rebuild_cache.dir

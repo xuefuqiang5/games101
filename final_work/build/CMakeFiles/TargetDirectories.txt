@@ -1,0 +1,3 @@
+/Users/xuewenqi/code/games101/final_work/build/CMakeFiles/MyVulkanApp.dir
+/Users/xuewenqi/code/games101/final_work/build/CMakeFiles/edit_cache.dir
+/Users/xuewenqi/code/games101/final_work/build/CMakeFiles/rebuild_cache.dir

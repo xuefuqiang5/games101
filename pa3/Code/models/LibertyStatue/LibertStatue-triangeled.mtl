@@ -1,0 +1,95 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v5.4.0)
+
+newmtl DefaultMaterial
+Kd 0.600000024 0.600000024 0.600000024
+Ka 0 0 0
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+d 1
+Ni 1
+illum 1
+
+newmtl Preview
+Kd 0.195440993 0.263740987 0.253699988
+Ka 0 0 0
+Ks 0.0237312 0.0522110984 0.0793908983
+Ke 0 0 0
+Tf 1 1 1
+d 1
+Ni 1
+Ns 50
+illum 2
+
+newmtl 7_-_Default
+Kd 0.800000012 0.800000012 0.800000012
+Ka 0 0 0
+Ks 0.447059005 0.447059005 0.447059005
+Ke 0 0 0
+Tf 1 1 1
+d 1
+Ni 1
+Ns 10
+illum 2
+map_Kd Liberty-GreenBronze-1.bmp
+
+newmtl 2_-_Default
+Kd 0.431373 0.431373 0.431373
+Ka 0 0 0
+Ks 0.600000024 0.600000024 0.600000024
+Ke 0 0 0
+Tf 1 1 1
+d 1
+Ni 1
+Ns 10
+illum 2
+map_Kd Liberty-GreenBronze-1.bmp
+
+newmtl 9_-_DefaultA
+Kd 0.800000012 0.800000012 0.800000012
+Ka 0 0 0
+Ks 0.203922004 0.203922004 0.203922004
+Ke 0 0 0
+Tf 1 1 1
+d 1
+Ni 1
+Ns 10
+illum 2
+map_Kd Liberty-DecorazioniMarmo-2.bmp
+
+newmtl 7_-_PorteBlindate
+Kd 0.800000012 0.800000012 0.800000012
+Ka 0 0 0
+Ks 0.600000024 0.600000024 0.600000024
+Ke 0 0 0
+Tf 1 1 1
+d 1
+Ni 1
+Ns 10
+illum 2
+map_Kd Liberty-PortaBronzo-1.bmp
+
+newmtl 8_-_DefaultA
+Kd 0.800000012 0.800000012 0.800000012
+Ka 0 0 0
+Ks 0.121569 0.121569 0.121569
+Ke 0 0 0
+Tf 1 1 1
+d 1
+Ni 1
+Ns 10
+illum 2
+map_Kd Liberty-MattoniBasamento-1.bmp
+
+newmtl 2_-_Fiamma
+Kd 0.709803998 0.643136978 0
+Ka 0 0 0
+Ks 0.996078014 0.839215994 0.0901961029
+Ke 0 0 0
+Tf 1 1 1
+d 1
+Ni 1
+Ns 10
+illum 2
+

@@ -1,0 +1,17 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "name": "Debug shading",
+        "type": "lldb",                             // 如果你用的是 clang/macOS
+        "request": "launch",
+        "program": "${workspaceFolder}/build/shading", // 可执行文件路径
+        "args": ["output.png", "texture"],             // 运行参数
+        "cwd": "${workspaceFolder}",                   // 当前工作目录
+        "stopAtEntry": false,
+        "environment": [],
+        "externalConsole": false,
+        "preLaunchTask": "build"                       // 如果你有 tasks.json，可以启用它
+      }
+    ]
+  }

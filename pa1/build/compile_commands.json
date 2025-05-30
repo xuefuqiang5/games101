@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/Users/xuewenqi/code/games101/pa1/build",
+  "command": "/usr/bin/c++  -I/opt/homebrew/include -isystem /opt/homebrew/Cellar/opencv/4.11.0_1/include/opencv4 -g -std=gnu++17 -arch arm64 -o CMakeFiles/Rasterizer.dir/main.cpp.o -c /Users/xuewenqi/code/games101/pa1/main.cpp",
+  "file": "/Users/xuewenqi/code/games101/pa1/main.cpp",
+  "output": "CMakeFiles/Rasterizer.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/xuewenqi/code/games101/pa1/build",
+  "command": "/usr/bin/c++  -I/opt/homebrew/include -isystem /opt/homebrew/Cellar/opencv/4.11.0_1/include/opencv4 -g -std=gnu++17 -arch arm64 -o CMakeFiles/Rasterizer.dir/rasterizer.cpp.o -c /Users/xuewenqi/code/games101/pa1/rasterizer.cpp",
+  "file": "/Users/xuewenqi/code/games101/pa1/rasterizer.cpp",
+  "output": "CMakeFiles/Rasterizer.dir/rasterizer.cpp.o"
+},
+{
+  "directory": "/Users/xuewenqi/code/games101/pa1/build",
+  "command": "/usr/bin/c++  -I/opt/homebrew/include -isystem /opt/homebrew/Cellar/opencv/4.11.0_1/include/opencv4 -g -std=gnu++17 -arch arm64 -o CMakeFiles/Rasterizer.dir/Triangle.cpp.o -c /Users/xuewenqi/code/games101/pa1/Triangle.cpp",
+  "file": "/Users/xuewenqi/code/games101/pa1/Triangle.cpp",
+  "output": "CMakeFiles/Rasterizer.dir/Triangle.cpp.o"
+}
+]
